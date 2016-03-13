@@ -1,0 +1,43 @@
+	@charset "utf-8";
+	/* CSS Document */
+	#banner{
+	height:359px;
+	width:1200px;
+	\                                                                         0px;
+	}
+#lun{
+	
+	height:820px;
+	width:1250px;
+	margin-left:80px;
+	margin-top:25px;
+	margin-right:20px;
+	
+	}
+	#show1{
+	width:1200px;
+	height:300px;
+	margin-left:80px;
+	margin-top:-5px;
+   
+	}
+    #Tables{
+    height:"600px";
+	margin-top:200px;
+        margin-left:60px;
+
+
+	}
+
+	#foot-top{
+   
+    margin-top:20px;
+	text-align:center;
+	margin-left:-25px;
+	}
+	#foot-botton{
+	margin-left:200px;px;
+	margin-top:20px;
+  
+	
+	}
